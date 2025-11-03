@@ -1,0 +1,13 @@
+name = "learning-assistant-mcp"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+# Cloudflare account settings (optional - will be set on first deploy)
+# account_id = "your-account-id"
+
+[build]
+command = ""
+
+# Environment variables (if needed later)
+[vars]
+# Add public variables here
