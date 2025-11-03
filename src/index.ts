@@ -1,5 +1,6 @@
 import { wikipediaTool } from "./tools/wikipedia";
 import { translateTool } from "./tools/translate";
+import { dictionaryTool } from "./tools/dictionary";
 
 // ============================================================================
 // TOOL REGISTRY
@@ -12,6 +13,7 @@ import { translateTool } from "./tools/translate";
 const tools = {
   searchWikipedia: wikipediaTool,
   translateText: translateTool,
+  lookupWord: dictionaryTool,
   // Future tools will be added here:
   // getYouTubeTranscript: youtubeTool,
   // generateFlashcards: flashcardTool,
