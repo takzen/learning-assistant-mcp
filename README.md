@@ -379,7 +379,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **GitHub**: [@takzen](https://github.com/takzen)
-- **Project Link**: [https://github.com/takzen/learning-assistant](https://github.com/takzen/learning-assistant)
+- **Project Link**: [https://github.com/takzen/learning-assistant](https://github.com/takzen/learning-assistant-mcp)
 - **Live Demo**: [https://learning-assistant-mcp.mcp-weather.workers.dev](https://learning-assistant-mcp.mcp-weather.workers.dev)
 
 ---
