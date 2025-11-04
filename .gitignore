@@ -22,3 +22,14 @@ Thumbs.db
 # Logs
 *.log
 wrangler.toml
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
